@@ -123,5 +123,5 @@ streamlit run code/main.py
 ## 👨‍💻 Contributors
 
 - **Sai Kiran Reddy Pothuganti**
-- **Vivek Varma Rudraraju**
+
  
